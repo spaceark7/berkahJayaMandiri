@@ -1,0 +1,32 @@
+.specCard {
+    position: relative;
+    width: 40%;
+    display: flex;
+    height: 200px;
+
+    margin: 10px;
+}
+
+.specCard .specsImage {
+    width: 30%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    padding: 20px;
+}
+
+.specCard .specsImage img {
+    width: 100%;
+}
+
+.specCard .specsText {
+    background-color: white;
+    width: 70%;
+}
+
+.specCard .specsText ul li {
+    list-style: none;
+    text-align: left;
+    padding-bottom: 5px;
+}

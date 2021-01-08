@@ -1,0 +1,19 @@
+.client-container {
+    
+    height: 400px;
+   padding-left: 100px;
+    text-align: left;
+    overflow: hidden;
+}
+
+.clientBox {
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.clientBox p {
+    font-size: 1.4em;
+    font-weight: 600;
+}

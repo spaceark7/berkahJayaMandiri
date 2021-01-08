@@ -1,0 +1,18 @@
+.specsBox {
+    position: relative;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    background: rgb(240, 240, 240);
+    display: none;
+    justify-content: space-around;
+    align-items: center;
+    padding: 100px 0px 100px 0px;
+}
+
+.specsBox .specsMain {
+    text-transform: uppercase;
+    position: absolute;
+    top: 0%;
+    font-size: 2em;
+}
