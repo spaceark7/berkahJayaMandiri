@@ -40,6 +40,11 @@ video {
     position: relative;
 }
 
+.logo-title {
+    font-style: italic;
+    color: #3E578A;
+}
+
 /* Styling Navigasi */
 
 .nav {
@@ -115,10 +120,20 @@ video {
     font-size: 1.2em;
     font-weight: 700;
     color: #3E578A;
+   
 }
 
+.hline {
+    align-items: center;
+    position: relative;
+    height: 1px;
+    width: 50px;
+    left: 30%;
+    background-color: #3E578A;
+}
 .cardText .card-desc {
     padding: 10px;
     font-size: 14px;
     letter-spacing: 0.9px;
 }
+

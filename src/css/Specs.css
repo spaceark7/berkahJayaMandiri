@@ -15,4 +15,7 @@
     position: absolute;
     top: 0%;
     font-size: 2em;
+    margin-bottom: 10px;
+    color: #D7A31A;
+    border-bottom: #D7A31A 1px solid;
 }

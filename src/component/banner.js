@@ -40,8 +40,8 @@ const Banner = () => {
                 <div className='logo-container'>
                     <img src={Logo}></img>
                     <h2 className="logo-title">
-                        Produsen Kawat Bronjong & Harmonika <br></br>
-                        Terbaik Di Cianjur.
+                        "Produsen Kawat Bronjong & Harmonika <br></br>
+                        Terbaik Di Cianjur."
                     </h2>
                 </div>
                 
@@ -54,6 +54,7 @@ const Banner = () => {
                     </div>
                     <div className="cardText">
                         <p className="card-title">Kepuasan #1</p>
+                        
                         <p className="card-desc">Bronjong kami dibuat secara handmade(manual) dengan cermat kami menjaga kualitas.</p>
                     </div>
                 </div>

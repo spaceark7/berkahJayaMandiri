@@ -5,6 +5,7 @@ import Galeri from './component/Galeri';
 import Layanan from './component/layanan.js'
 import Specs from './component/Specs.js'
 import Client from './component/Client.js'
+import Footer from './component/Footer.js';
 function App() {
   const [prodVal, setProdVal] = useState('');
   const [data, setData] = useState([])
@@ -34,6 +35,7 @@ function App() {
       <Specs data={data} param={prodVal} />
       <Galeri />
       <Client />
+      <Footer />
 
     </div>
   );

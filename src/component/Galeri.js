@@ -15,6 +15,7 @@ const Galeri = () => {
     <div className="galeri-container">
         <div className="galeri-title">
         <h2>Galeri</h2>
+        <div className="horizontal-line"></div>
         <p>Proyek yang telah kami garap</p>
         </div>
         
